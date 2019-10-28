@@ -18,8 +18,8 @@ In this project I developped a React app that manages palettes of colors using v
 
 These are some screenshots.
 
-![Home page](/screenshots/home.png)
-![Palette](/screenshots/palette.png)
-![Single color shades](/screenshots/singleColorShades.png)
-![Create new platte view](/screenshots/createNewPalette.png)
-![Choose emoji using emoji-mart](/screenshots/chooseEmoji.png)
+![Home view](https://i.ibb.co/LC3gcRW/home.png)
+![Palette view](https://i.ibb.co/dGthJC9/palette.png)
+![Single color shades view](https://i.ibb.co/b5qx347/single-Color-Shades.png)
+![Create new palette view](https://i.ibb.co/9tCCzvW/create-New-Palette.png)
+![Pick emoji view](https://i.ibb.co/93NNmmQ/choose-Emoji.png)
