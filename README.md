@@ -14,11 +14,12 @@ In this project I developped a React app that manages palettes of colors using v
 - react-color
 - react-material-ui-form-validator
 - react-transition-group
+- emoji-mart
 
 These are some screenshots.
 
-![Screenshot](/screenshots/home.png)
-![Screenshot](/screenshots/palette.png)
-![Screenshot](/screenshots/singleColorShades.png)
-![Screenshot](/screenshots/createNewPalette.png)
-![Screenshot](/screenshots/chooseEmoji.png)
+![Home page](/screenshots/home.png)
+![Palette](/screenshots/palette.png)
+![Single color shades](/screenshots/singleColorShades.png)
+![Create new platte view](/screenshots/createNewPalette.png)
+![Choose emoji using emoji-mart](/screenshots/chooseEmoji.png)
