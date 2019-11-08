@@ -16,7 +16,7 @@ In this project I developped a React app that manages palettes of colors using v
 - react-transition-group
 - emoji-mart
 
-These are some screenshots.
+These are some screenshots || visit https://y4553r.github.io/react-colors-project/ to interact with the app :)
 
 ![Home view](https://i.ibb.co/LC3gcRW/home.png)
 ![Palette view](https://i.ibb.co/dGthJC9/palette.png)
